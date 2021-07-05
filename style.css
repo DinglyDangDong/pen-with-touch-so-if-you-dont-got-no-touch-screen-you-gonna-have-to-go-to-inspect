@@ -1,0 +1,38 @@
+body{ 
+    cursor: pointer; 
+    background-image: url("https://lh3.googleusercontent.com/proxy/p8KNB3pej7ygroaumUv9I1_imt5PkQgCGfOjZ6qxwIVjgsLQwzo7VlIj8WVCo9PhZikBe3ZfZ7zaIMUhIsNI597ub5j3Az56A70GbB7Rrif7yv5u8m6AeU4P6ZEi7GiCQ-iz3d4fzSKufJ7gPhwoPCBw9vVUKuCtncXQ8pmx0obGQA"); 
+    background-position: center; 
+    background-size: cover; 
+} 
+h1 { 
+    color: white; 
+    font-size: 40px; 
+} 
+#myCanvas { 
+    border-width: 3px; 
+    background: linear-gradient( 35deg,rgba(211, 211, 211, 0.921)50%, rgba(213, 213, 213, 0.678)50%); 
+    border-style: solid; 
+    border-color: white;
+} 
+button {
+    background-color: #7966a700; 
+    border: none; 
+    color: white; 
+    padding: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px; 
+    border-color: white; 
+    border-width: 2px; 
+    border-style: solid;
+    border-radius: 3px;
+} 
+input { 
+    margin-right: 20px; 
+}
+.inp {
+    opacity: .8;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    border-style: solid;
+}
